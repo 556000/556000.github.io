@@ -1,9 +1,9 @@
 # Site settings
 title: Construsted Memory
-SEOTitle: CHENCHI | BY Blog
+SEOTitle: CHENCHI | Write
 header-img: img/post-bg-desk.jpg
 email: 12097652@qq.com
-description: "Every failure is leading towards success."
+description: “just do it that you want.”
 keyword: "回忆"
 url: "http://556000.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -23,7 +23,7 @@ zhihu_username:
 github_username:    556000
 facebook_username:  
 jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  enable: true    #是否开启Gitalk评论
+  clientID: 00dc046f2435dfa2689e                            #生成的clientID
+  clientSecret: ac1b1bcfc36d9ba5e689eba04cf991c631a6d439    #生成的clientSecret
+  repo: 556000.github.io    #仓库名称
+  owner: 556000    #github用户名
+  admin: 556000
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

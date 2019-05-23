@@ -1,13 +1,13 @@
 # Site settings
 title: Construsted Memory
 SEOTitle: CHENCHI | Write
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: 12097652@qq.com
 description: “just do it that you want.”
 keyword: "回忆"
 url: "http://556000.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/556000/556000.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

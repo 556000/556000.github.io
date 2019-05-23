@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: 00dc046f2435dfa2689e                            #生成的clientID
   clientSecret: ac1b1bcfc36d9ba5e689eba04cf991c631a6d439    #生成的clientSecret
   repo: 556000.github.io    #仓库名称
@@ -74,18 +74,18 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: 
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
+featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
